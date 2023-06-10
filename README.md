@@ -7,7 +7,7 @@ Tener cuenta de whatsapp, cuenta de facebook developers
 # Configuracion de cuenta de facebook
 La cuenta se debe configurar como se muestra en el siguiente video
 
-video en edicion
+Este video se encuentra en edicion
 
 # Despliegue AZURE
 <img width="1425" alt="Screen Shot 2023-06-10 at 9 43 08 AM" src="https://github.com/AnderssonAvilaRojas/Whatsapp-Api-node/assets/79039742/9acfe072-5a93-4295-8103-6f20bc484589">
