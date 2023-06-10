@@ -14,13 +14,9 @@ video en edicion
 
 
 
-# Mensaje generado
+# Mensaje generado en whatsapp
 
-
-Para este ejercicio <img width="1439" alt="Screen Shot 2023-06-10 at 9 39 45 AM" src="https://github.com/AnderssonAvilaRojas/Whatsapp-Api-node/assets/79039742/539e895c-2dfe-4059-93f6-004ec5d71a8e">
-
-
-
+<img width="1000" alt="Screen Shot 2023-06-10 at 9 41 51 AM" src="https://github.com/AnderssonAvilaRojas/Whatsapp-Api-node/assets/79039742/1f6e497d-ec08-4840-9fa1-4faa5586b736">
 
 # Mensajes almacenados
 <img width="1439" alt="Screen Shot 2023-06-10 at 9 39 45 AM" src="https://github.com/AnderssonAvilaRojas/Whatsapp-Api-node/assets/79039742/16a8bee4-5e0e-4924-ba2b-77aaf0b19d31">
