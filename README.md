@@ -10,7 +10,9 @@ La cuenta se debe configurar como se muestra en el siguiente video
 Este video se encuentra en edicion
 # Despliegue local
 clone el proyecto, en la carpeta raiz:
+
 - coloque los siguientes comandos:
+
 `npm i`
 
 `npm run start`
