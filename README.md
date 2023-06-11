@@ -9,7 +9,7 @@ La cuenta se debe configurar como se muestra en el siguiente video
 
 Este video se encuentra en edicion
 # Despliegue local
-clone el proyecto, en la carpeta raiz coloque los siguientes comandos, en la terminal (Visual estudio o git )
+Clone este proyecto en git,  en la carpeta raiz de este proyecto coloque los siguientes comandos, en la terminal (Visual estudio o git )
 
 `npm i`
 
