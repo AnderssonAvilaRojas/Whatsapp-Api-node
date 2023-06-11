@@ -9,8 +9,10 @@ La cuenta se debe configurar como se muestra en el siguiente video
 
 Este video se encuentra en edicion
 # Despliegue local
-clone el proyecto, en la carpeta raiz, coloque los siguientes comandos:
+clone el proyecto, en la carpeta raiz:
+- coloque los siguientes comandos:
 `npm i`
+
 `npm run start`
 # Despliegue AZURE
 <img width="1425" alt="Screen Shot 2023-06-10 at 9 43 08 AM" src="https://github.com/AnderssonAvilaRojas/Whatsapp-Api-node/assets/79039742/9acfe072-5a93-4295-8103-6f20bc484589">
